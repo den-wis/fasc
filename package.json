@@ -23,6 +23,8 @@
     "@angular/router": "^5.0.0",
     "core-js": "^2.4.1",
     "rxjs": "^5.5.2",
+    "svg.draggable.js": "^2.2.1",
+    "svg.js": "^2.6.3",
     "zone.js": "^0.8.14"
   },
   "devDependencies": {

@@ -3,11 +3,13 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
+import { SvgJsComponent } from './svg-js/svg-js.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SvgJsComponent,
   ],
   imports: [
     BrowserModule
